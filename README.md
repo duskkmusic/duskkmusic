@@ -78,19 +78,6 @@ class Dusk:
 
 </td>
 </tr>
-<tr>
-<td align="center">
-
-**Frontend**
-
-</td>
-<td>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
 </table>
 
 ---
